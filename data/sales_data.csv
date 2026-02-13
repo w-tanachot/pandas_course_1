@@ -1,0 +1,11 @@
+Date,Product,Region,Sales,Profit
+2023-01-01,Laptop,North,15000,3000
+2023-01-02,Mouse,North,500,100
+2023-01-03,Laptop,South,12000,2500
+2023-01-04,Keyboard,East,800,200
+2023-01-05,Laptop,North,18000,3500
+2023-01-06,Mouse,South,600,120
+2023-01-07,Laptop,West,20000,4000
+2023-01-08,Keyboard,North,900,250
+2023-01-09,Monitor,South,4000,800
+2023-01-10,Laptop,East,16000,3200
